@@ -33,7 +33,7 @@ A comprehensive automated API testing suite for **Trello REST API** built using 
 
 * **Create New Board:** Handled board instantiation workflows.
   
-  ![Create New Board](API testing/Create_New_Board.png)
+  ![Create New Board](API%20testing/Create_New_Board.png)
 
 * **Delete Board (Negative Testing):** Handled error validation for non-existing board resources (`404 Not Found`).
   
